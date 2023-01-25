@@ -65,7 +65,7 @@ module {
 
                 pos += 1;
             };
-            buf.toArray()
+            Buffer.toArray(buf)
         }
     };
 
